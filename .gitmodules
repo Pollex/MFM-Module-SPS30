@@ -1,0 +1,3 @@
+[submodule "lib/mfm-module-core"]
+	path = lib/mfm-module-core
+	url = git@github.com:Senwize/mfm-module-core.git
