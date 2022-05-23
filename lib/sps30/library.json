@@ -1,0 +1,10 @@
+{
+  "name": "sps30",
+  "authors": [
+    {
+      "name": "Sensirion",
+      "email": ""
+    }
+  ],
+  "platforms": "*"
+}

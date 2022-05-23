@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "board.h": "c",
+    "io.h": "c",
+    "uart.h": "c"
+  }
+}
